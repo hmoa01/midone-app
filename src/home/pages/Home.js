@@ -1,7 +1,7 @@
 import React from "react";
 
-import Logo from "./Logo";
-import LoginPage from "./LoginPage";
+import Logo from "../components/Logo";
+import LoginPage from "../components/LoginPage";
 
 const Home = () => {
   return (
